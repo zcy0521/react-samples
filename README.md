@@ -4,25 +4,16 @@
 
 ## 安装
 
-安装 [cnpm](https://www.npmjs.com/package/cnpm)
-
-```bash
-$ npm install cnpm -g --registry=https://registry.npm.taobao.org
-$ cnpm -v
-```
-
 安装 [create-react-app](https://github.com/facebook/create-react-app)。
 
 ```bash
 $ npm install -g create-react-app
-$ create-react-app -V
-1.5.2
 ```
 
 安装 [yarn](https://github.com/yarnpkg/yarn)。
 
 ```bash
-$ npm install -g create-react-app yarn
+$ npm install -g yarn
 ```
 
 ## 新建项目
